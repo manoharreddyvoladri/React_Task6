@@ -2,15 +2,15 @@ export const Bio = {
     name: "Manohar Reddy",
     roles: [
       "Full Stack Developer",
-      "Android Developer",
-      "UI/UX Designer",
+      "Farmer",
+      "Data Analyst",
       "Programmer",
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/voladrimanoharreddy",
     resume:
-      "https://drive.google.com/file/d/1GlLu_X89fL8AR5xB9w8zeNDfekbzXgvV/view?usp=sharing",
+      "https://drive.google.com/file/d/1GvfwV1nKmYvVj_EdB3I75M9yWztk4pYl/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/voladrimanohrreddy/",
     twitter: "https://twitter.com/voladrimr",
     insta: "https://www.instagram.com/manoharreddyvoladri3/",
