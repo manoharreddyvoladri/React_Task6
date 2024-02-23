@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Bio } from '../../data/constants';
 import Typewriter from 'typewriter-effect';
-import HeroImg from '../../images/HeroImage.jpg'
+import HeroImg from '../../images/HeroImage.png'
 import HeroBgAnimation from '../HeroBgAnimation'
 
 
@@ -160,7 +160,7 @@ const ResumeButton = styled.a`
     appearance: button;
     text-decoration: none;
     width: 95%;
-    max-width: 300px;
+    max-width: 250px;
     text-align: center;
     padding: 16px 10;
     color:${({ theme }) => theme.white};
@@ -194,10 +194,10 @@ const Img = styled.img`
   position: relative;
   width: 100%;
   height: 100%;
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 500px;
+  max-height: 500px;
   border-radius: 50%;
-  border: 2px solid ${({ theme }) => theme.primary};
+  // border: 2px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 768px) {
     max-width: 400px;
