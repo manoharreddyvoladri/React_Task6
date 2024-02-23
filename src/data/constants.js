@@ -7,8 +7,13 @@ export const Bio = {
       "Programmer",
     ],
     description:
+<<<<<<< HEAD
       "Driven VIT Chennai CSE student, currently in the pre-final year, actively seeking an internship opportunity to apply my academic knowledge and AI & Robotics background in a real-world setting. Eager to contribute to continuous learning and growth, I am open to diverse roles and challenges, showcasing adaptability and a commitment to excellence. Ready to bring a unique blend of skills, passion, and a proactive approach to contribute meaningfully to your team and organization.",
     github: "https://github.com/voladrimanoharreddy",
+=======
+      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    github: "https://github.com/manoharreddyvoladri",
+>>>>>>> c65e7b971d06848cf8127369928e80a07045cde9
     resume:
       "https://voladrimanoharreddy.tiiny.site",
     linkedin: "https://www.linkedin.com/in/voladrimanohrreddy/",
