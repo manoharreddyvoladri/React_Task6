@@ -300,7 +300,7 @@ export const Bio = {
       date: "November 2024",
       description:
         "GestureSpeak is an AI-powered platform designed to provide real-time sign language detection and translation. This application bridges communication gaps by integrating advanced deep learning models with a user-friendly interface. The system processes live video streams, detects sign language using YOLOv5, and translates it into text in real-time.",
-      image:"data:5g1itlltcd7SXd4wAUwDcy8Yk8nxCB/amK1wT3xv4pum8FJPHz+1GkKCByxBh3fHLIOcbus1Oz/BddchVnPTzQ7AAAAAElFTkSuQmCC",
+      image:"https://github-production-user-asset-6210df.s3.amazonaws.com/92422839/425818775-d887ad5b-a0b1-42b8-bddf-9ea99dc575c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250323T110729Z&X-Amz-Expires=300&X-Amz-Signature=ddf1be82b92644de4b33e9badaface9311f4736d928d1a3197ac0b434bb7bf67&X-Amz-SignedHeaders=host",
 
       tags: [
         "YOLOv5",
@@ -341,7 +341,7 @@ export const Bio = {
       date: "October 2024",
       description:
         "Many businesses use Google Sheets for collaborative data management and databases for more robust and scalable data storage. However, keeping the data synchronised between Google Sheets and databases is often a manual and error-prone process. Your task is to develop a solution that automates this synchronisation, ensuring that changes in one are reflected in the other in real-time.",
-      image:"https://github.com/manoharreddyvoladri/ETHBalanceTracker/blob/main/Grafana_Dashboard.png?raw=true",
+      image:"https://github-production-user-asset-6210df.s3.amazonaws.com/92422839/425819121-a7bf075a-0ab1-4cb8-97bd-e7fe56258ba9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250323T111424Z&X-Amz-Expires=300&X-Amz-Signature=2d09cace9516ce89a1e4a93db066c9f81e2fbb7b448e97acaa2c16f0fcb4a8a9&X-Amz-SignedHeaders=host",
 
       tags: [
         "Node.js",
@@ -360,7 +360,7 @@ export const Bio = {
       date: "February 2025",
       description:
         "This task management system offers CRUD operations, single-click task completion, and real-time updates via WebSockets. It includes AI-powered task suggestions, a responsive Tailwind CSS UI, and optional JWT authentication.",
-      image:"https://github-production-user-asset-6210df.s3.amazonaws.com/92422839/415878565-23fcd5e4-23c8-461d-92ac-6aa8a65486cc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250302%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250302T182630Z&X-Amz-Expires=300&X-Amz-Signature=fd9b510be00ad0ba5c4b8fce4c1bf83be58a9bf131b65a20c04edacfde64dea4&X-Amz-SignedHeaders=host",
+      image:"https://github-production-user-asset-6210df.s3.amazonaws.com/92422839/425818481-794b3352-e327-47f7-b729-11385407f943.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250323T110911Z&X-Amz-Expires=300&X-Amz-Signature=59e096d7b6b3546981c972d11107adfeea0600f0dd1c851c4d3fa58fea9621b1&X-Amz-SignedHeaders=host",
 
       tags: [
         "Next.js",
@@ -421,7 +421,7 @@ export const Bio = {
       date: "November 2023",
       description:
         "Embark on a seamless journey with the Travel Agency Booking System, a full-fledged web application meticulously designed, developed, and deployed. This comprehensive system simplifies the travel experience by offering a user-friendly platform for booking tickets with ease. ",
-      image:"data:5g1itlltcd7SXd4wAUwDcy8Yk8nxCB/amK1wT3xv4pum8FJPHz+1GkKCByxBh3fHLIOcbus1Oz/BddchVnPTzQ7AAAAAElFTkSuQmCC",
+      image:"https://github-production-user-asset-6210df.s3.amazonaws.com/92422839/425818533-4dc88f23-04fc-4f54-99e6-4231ee07b06e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250323T111525Z&X-Amz-Expires=300&X-Amz-Signature=f54701685e53ad009258ff61950a4112d37d5fefccd908607672a99b9242b858&X-Amz-SignedHeaders=host",
 
       tags: [
         "React Js",
